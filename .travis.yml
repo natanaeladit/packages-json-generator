@@ -2,6 +2,6 @@ language: csharp
 solution: packages-generator.sln
 
 mono: none
-dotnet: 3.0.0
+dotnet: 3.0.100-preview-010184
 script:
  - dotnet restore
